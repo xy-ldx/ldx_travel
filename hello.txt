@@ -1,3 +1,0 @@
-hello git
-hello git update
-hello git update2
